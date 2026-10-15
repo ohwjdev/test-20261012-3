@@ -113,7 +113,7 @@
          </surface>
          <surface xml:id="surface-3" n="3" ulx="0" uly="0" lrx="2395" lry="3526">
             <graphic xml:id="graphic-3" target="../img/03.jpg" width="2395" height="3526"/>
-            <zone xml:id="zone-3-1" type="measure" n="54" ulx="241" uly="281" lrx="2254" lry="443"/>
+            <zone xml:id="zone-3-1" type="measure" n="54" ulx="142" uly="281" lrx="2274" lry="444"/>
             <zone xml:id="zone-3-2" type="measure" n="55" ulx="133" uly="592" lrx="1272" lry="756"/>
             <zone xml:id="zone-3-3" type="measure" n="56" ulx="1203" uly="593" lrx="2255" lry="756"/>
             <zone xml:id="zone-3-4" type="measure" n="57" ulx="134" uly="912" lrx="1381" lry="1072"/>
