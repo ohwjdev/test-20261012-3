@@ -99,8 +99,8 @@
             <zone xml:id="zone-2-11" type="measure" n="40" ulx="1241" uly="1227" lrx="1728" lry="1388"/>
             <zone xml:id="zone-2-12" type="measure" n="41" ulx="1661" uly="1227" lrx="2256" lry="1388"/>
             <zone xml:id="zone-2-13" type="measure" n="42" ulx="132" uly="1526" lrx="1028" lry="1698"/>
-            <zone xml:id="zone-2-14" type="measure" n="43" ulx="949" uly="1539" lrx="2242" lry="1698"/>
-            <zone xml:id="zone-2-15" type="measure" n="44" ulx="960" uly="1539" lrx="1644" lry="1699"/>
+            <zone xml:id="zone-2-14" type="measure" n="43" ulx="960" uly="1539" lrx="1644" lry="1699"/>
+            <zone xml:id="zone-2-15" type="measure" n="44" ulx="1570" uly="1539" lrx="2242" lry="1698"/>
             <zone xml:id="zone-2-16" type="measure" n="45" ulx="142" uly="1859" lrx="2250" lry="2018"/>
             <zone xml:id="zone-2-17" type="measure" n="46" ulx="133" uly="2164" lrx="1220" lry="2326"/>
             <zone xml:id="zone-2-18" type="measure" n="47" ulx="1144" uly="2164" lrx="2252" lry="2326"/>
