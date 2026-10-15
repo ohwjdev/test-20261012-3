@@ -5,12 +5,6 @@
 			"image": "../img/01.jpg",
 			"measures": [
 				{
-					"ulx": 1910,
-					"uly": 170,
-					"lrx": 2224,
-					"lry": 314
-				},
-				{
 					"ulx": 302,
 					"uly": 762,
 					"lrx": 694,
