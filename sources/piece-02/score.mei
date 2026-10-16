@@ -374,7 +374,7 @@
                      <layer xml:id="layer-48" n="1"/>
                   </staff>
                </measure>
-               <measure xml:id="measure-49" n="39" facs="#zone-1-49">
+               <measure xml:id="measure-49" n="39" right="rptend" facs="#zone-1-49">
                   <staff xml:id="staff-49" n="1">
                      <layer xml:id="layer-49" n="1"/>
                   </staff>
